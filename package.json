@@ -1,0 +1,26 @@
+{
+  "name": "js-project-task-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "parcel": "parcel index.html",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jishan101/JS-Project-Task-Manager.git"
+  },
+  "keywords": [],
+  "author": "Jishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jishan101/JS-Project-Task-Manager/issues"
+  },
+  "homepage": "https://github.com/jishan101/JS-Project-Task-Manager#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "regenerator-runtime": "^0.13.9"
+  },
+  "devDependencies": {}
+}
